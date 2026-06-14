@@ -132,6 +132,5 @@ const Sushant = {
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
-<sub> Crafted with caffeine, dark themes, and way too many terminal windows </sub>
 
 </div>
